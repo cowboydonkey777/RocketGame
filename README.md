@@ -1,5 +1,6 @@
 # Rocket Project
 
+Below is auto generated from gitlab. Keeping it in becuase I thought it was funny
 
 
 ## Getting started
